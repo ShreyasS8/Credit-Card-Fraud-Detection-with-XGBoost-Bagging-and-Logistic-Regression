@@ -53,10 +53,6 @@ PR curve)\
 | Logistic Regression   | 0.7189 | 0.9721  | 1.0000     | 0.8247 | 0.8247    | 0.8163 | 0.8205 | 0.8000        | 464.99   |
 | SMOTE_XGBoost_tuned   | 0.7015 | 0.9620  | 0.9069     | 0.7876 | 0.7600    | 0.7755 | 0.7677 | 0.7600        | 441.74   |
 
-➡️ **Highlights**  
-- **Bagging** achieved the best **F1 score (0.8830)** and highest precision (0.9222).  
-- **XGBoost_noSMOTE** achieved the best **AUPRC (0.8663)**.  
-
 
 ➡️ **Best Models:**\
 - **Bagging** achieved the highest F1 (0.8830) with strong precision
