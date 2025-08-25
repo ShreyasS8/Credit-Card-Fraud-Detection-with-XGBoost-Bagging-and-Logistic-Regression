@@ -72,7 +72,7 @@ pip install numpy pandas matplotlib scikit-learn xgboost imbalanced-learn shap s
 Run the training and evaluation pipeline:
 
 ``` bash
-python fraud_detection.py
+python train.py
 ```
 
 Outputs are saved in `models_outputs/`: - Trained models (`.joblib`)\
